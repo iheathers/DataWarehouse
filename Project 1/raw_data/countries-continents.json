@@ -2221,5 +2221,14 @@
     "continent": "Africa",
     "region": "Eastern Africa, Sub-Saharan Africa",
     "color": "#FF4D94"
+  },
+  {
+    "id": "TW",
+    "name": "Taiwan, Province of China",
+    "M49 code": "716",
+    "ISO alpha3 code": "TWN",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D94"
   }
 ]

@@ -61,5 +61,3 @@ With these datasets understood, the next step is to clean and prepare the data f
 1. **Data Cleaning**: Handling missing values, correcting any inaccuracies, and standardizing formats.
 2. **Schema Design**: Deciding on a suitable schema to organize these datasets efficiently.
 3. **Integration**: Combining related data from different datasets based on common attributes like country names or years.
-
-Would you like to proceed with any specific dataset for cleaning or should we discuss the schema design for the warehouse next?
