@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "AF",
+    "name": "Afghanistan",
+    "M49 code": "004",
+    "ISO alpha3 code": "AFG",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "color": "#00CC99"
+  },
+  {
+    "id": "AX",
+    "name": "Åland Islands",
+    "M49 code": "248",
+    "ISO alpha3 code": "ALA",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "AL",
+    "name": "Albania",
+    "M49 code": "008",
+    "ISO alpha3 code": "ALB",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "DZ",
+    "name": "Algeria",
+    "M49 code": "012",
+    "ISO alpha3 code": "DZA",
+    "continent": "Africa",
+    "region": "Northern Africa",
+    "color": "#2EB82E"
+  },
+  {
+    "id": "AS",
+    "name": "American Samoa",
+    "M49 code": "016",
+    "ISO alpha3 code": "ASM",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "AD",
+    "name": "Andorra",
+    "M49 code": "020",
+    "ISO alpha3 code": "AND",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "AO",
+    "name": "Angola",
+    "M49 code": "024",
+    "ISO alpha3 code": "AGO",
+    "continent": "Africa",
+    "region": "Middle Africa, Sub-Saharan Africa",
+    "color": "#CCCC00"
+  },
+  {
+    "id": "AI",
+    "name": "Anguilla",
+    "M49 code": "660",
+    "ISO alpha3 code": "AIA",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "AQ",
+    "name": "Antarctica",
+    "M49 code": "010",
+    "ISO alpha3 code": "ATA",
+    "continent": "Antarctica",
+    "region": "Antarctica",
+    "color": "#6495ED"
+  },
+  {
+    "id": "AG",
+    "name": "Antigua and Barbuda",
+    "M49 code": "028",
+    "ISO alpha3 code": "ATG",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "AR",
+    "name": "Argentina",
+    "M49 code": "032",
+    "ISO alpha3 code": "ARG",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "AM",
+    "name": "Armenia",
+    "M49 code": "051",
+    "ISO alpha3 code": "ARM",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "AW",
+    "name": "Aruba",
+    "M49 code": "533",
+    "ISO alpha3 code": "ABW",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "AU",
+    "name": "Australia",
+    "M49 code": "036",
+    "ISO alpha3 code": "AUS",
+    "continent": "Oceania",
+    "region": "Australia and New Zealand",
+    "color": "#E6E600"
+  },
+  {
+    "id": "AT",
+    "name": "Austria",
+    "M49 code": "040",
+    "ISO alpha3 code": "AUT",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "color": "#E6B88A"
+  },
+  {
+    "id": "AZ",
+    "name": "Azerbaijan",
+    "M49 code": "031",
+    "ISO alpha3 code": "AZE",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "BS",
+    "name": "Bahamas",
+    "M49 code": "044",
+    "ISO alpha3 code": "BHS",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "BH",
+    "name": "Bahrain",
+    "M49 code": "048",
+    "ISO alpha3 code": "BHR",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "BD",
+    "name": "Bangladesh",
+    "M49 code": "050",
+    "ISO alpha3 code": "BGD",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "color": "#00CC99"
+  },
+  {
+    "id": "BB",
+    "name": "Barbados",
+    "M49 code": "052",
+    "ISO alpha3 code": "BRB",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "BY",
+    "name": "Belarus",
+    "M49 code": "112",
+    "ISO alpha3 code": "BLR",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "BE",
+    "name": "Belgium",
+    "M49 code": "056",
+    "ISO alpha3 code": "BEL",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "color": "#E6B88A"
+  },
+  {
+    "id": "BZ",
+    "name": "Belize",
+    "M49 code": "084",
+    "ISO alpha3 code": "BLZ",
+    "continent": "North America",
+    "region": "Central America, Latin America and the Caribbean",
+    "color": "#CC3300"
+  },
+  {
+    "id": "BJ",
+    "name": "Benin",
+    "M49 code": "204",
+    "ISO alpha3 code": "BEN",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "BM",
+    "name": "Bermuda",
+    "M49 code": "060",
+    "ISO alpha3 code": "BMU",
+    "continent": "North America",
+    "region": "Northern America",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "BT",
+    "name": "Bhutan",
+    "M49 code": "064",
+    "ISO alpha3 code": "BTN",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "color": "#00CC99"
+  },
+  {
+    "id": "BO",
+    "name": "Bolivia (Plurinational State of)",
+    "M49 code": "068",
+    "ISO alpha3 code": "BOL",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "M49 code": "535",
+    "ISO alpha3 code": "BES",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "BA",
+    "name": "Bosnia and Herzegovina",
+    "M49 code": "070",
+    "ISO alpha3 code": "BIH",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "BW",
+    "name": "Botswana",
+    "M49 code": "072",
+    "ISO alpha3 code": "BWA",
+    "continent": "Africa",
+    "region": "Southern Africa, Sub-Saharan Africa",
+    "color": "#B8E62E"
+  },
+  {
+    "id": "BV",
+    "name": "Bouvet Island",
+    "M49 code": "074",
+    "ISO alpha3 code": "BVT",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "BR",
+    "name": "Brazil",
+    "M49 code": "076",
+    "ISO alpha3 code": "BRA",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "RW",
+    "name": "British Indian Ocean Territory",
+    "M49 code": "086",
+    "ISO alpha3 code": "IOT",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "VG",
+    "name": "British Virgin Islands",
+    "M49 code": "092",
+    "ISO alpha3 code": "VGB",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "BN",
+    "name": "Brunei Darussalam",
+    "M49 code": "096",
+    "ISO alpha3 code": "BRN",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "BG",
+    "name": "Bulgaria",
+    "M49 code": "100",
+    "ISO alpha3 code": "BGR",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "BF",
+    "name": "Burkina Faso",
+    "M49 code": "854",
+    "ISO alpha3 code": "BFA",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "BI",
+    "name": "Burundi",
+    "M49 code": "108",
+    "ISO alpha3 code": "BDI",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "CV",
+    "name": "Cabo Verde",
+    "M49 code": "132",
+    "ISO alpha3 code": "CPV",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "KH",
+    "name": "Cambodia",
+    "M49 code": "116",
+    "ISO alpha3 code": "KHM",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "CM",
+    "name": "Cameroon",
+    "M49 code": "120",
+    "ISO alpha3 code": "CMR",
+    "continent": "Africa",
+    "region": "Middle Africa, Sub-Saharan Africa",
+    "color": "#CCCC00"
+  },
+  {
+    "id": "CA",
+    "name": "Canada",
+    "M49 code": "124",
+    "ISO alpha3 code": "CAN",
+    "continent": "North America",
+    "region": "Northern America",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "KY",
+    "name": "Cayman Islands",
+    "M49 code": "136",
+    "ISO alpha3 code": "CYM",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "CF",
+    "name": "Central African Republic",
+    "M49 code": "140",
+    "ISO alpha3 code": "CAF",
+    "continent": "Africa",
+    "region": "Middle Africa, Sub-Saharan Africa",
+    "color": "#CCCC00"
+  },
+  {
+    "id": "TD",
+    "name": "Chad",
+    "M49 code": "148",
+    "ISO alpha3 code": "TCD",
+    "continent": "Africa",
+    "region": "Middle Africa, Sub-Saharan Africa",
+    "color": "#CCCC00"
+  },
+  {
+    "id": "CL",
+    "name": "Chile",
+    "M49 code": "152",
+    "ISO alpha3 code": "CHL",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "CN",
+    "name": "China",
+    "M49 code": "156",
+    "ISO alpha3 code": "CHN",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "color": "#CC0052"
+  },
+  {
+    "id": "HK",
+    "name": "China, Hong Kong Special Administrative Region",
+    "M49 code": "344",
+    "ISO alpha3 code": "HKG",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "color": "#CC0052"
+  },
+  {
+    "id": "MO",
+    "name": "China, Macao Special Administrative Region",
+    "M49 code": "446",
+    "ISO alpha3 code": "MAC",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "color": "#CC0052"
+  },
+  {
+    "id": "CX",
+    "name": "Christmas Island",
+    "M49 code": "162",
+    "ISO alpha3 code": "CXR",
+    "continent": "Oceania",
+    "region": "Australia and New Zealand",
+    "color": "#E6E600"
+  },
+  {
+    "id": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "M49 code": "166",
+    "ISO alpha3 code": "CCK",
+    "continent": "Oceania",
+    "region": "Australia and New Zealand",
+    "color": "#E6E600"
+  },
+  {
+    "id": "CO",
+    "name": "Colombia",
+    "M49 code": "170",
+    "ISO alpha3 code": "COL",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "KM",
+    "name": "Comoros",
+    "M49 code": "174",
+    "ISO alpha3 code": "COM",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "CG",
+    "name": "Congo",
+    "M49 code": "178",
+    "ISO alpha3 code": "COG",
+    "continent": "Africa",
+    "region": "Middle Africa, Sub-Saharan Africa",
+    "color": "#CCCC00"
+  },
+  {
+    "id": "CK",
+    "name": "Cook Islands",
+    "M49 code": "184",
+    "ISO alpha3 code": "COK",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "CR",
+    "name": "Costa Rica",
+    "M49 code": "188",
+    "ISO alpha3 code": "CRI",
+    "continent": "North America",
+    "region": "Central America, Latin America and the Caribbean",
+    "color": "#CC3300"
+  },
+  {
+    "id": "CI",
+    "name": "Côte d’Ivoire",
+    "M49 code": "384",
+    "ISO alpha3 code": "CIV",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "HR",
+    "name": "Croatia",
+    "M49 code": "191",
+    "ISO alpha3 code": "HRV",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "CU",
+    "name": "Cuba",
+    "M49 code": "192",
+    "ISO alpha3 code": "CUB",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "CW",
+    "name": "Curaçao",
+    "M49 code": "531",
+    "ISO alpha3 code": "CUW",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "CY",
+    "name": "Cyprus",
+    "M49 code": "196",
+    "ISO alpha3 code": "CYP",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "CZ",
+    "name": "Czechia",
+    "M49 code": "203",
+    "ISO alpha3 code": "CZE",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "KP",
+    "name": "Democratic People's Republic of Korea",
+    "M49 code": "408",
+    "ISO alpha3 code": "PRK",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "color": "#CC0052"
+  },
+  {
+    "id": "CD",
+    "name": "Democratic Republic of the Congo",
+    "M49 code": "180",
+    "ISO alpha3 code": "COD",
+    "continent": "Africa",
+    "region": "Middle Africa, Sub-Saharan Africa",
+    "color": "#CCCC00"
+  },
+  {
+    "id": "DK",
+    "name": "Denmark",
+    "M49 code": "208",
+    "ISO alpha3 code": "DNK",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "DJ",
+    "name": "Djibouti",
+    "M49 code": "262",
+    "ISO alpha3 code": "DJI",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "DM",
+    "name": "Dominica",
+    "M49 code": "212",
+    "ISO alpha3 code": "DMA",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "DO",
+    "name": "Dominican Republic",
+    "M49 code": "214",
+    "ISO alpha3 code": "DOM",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "EC",
+    "name": "Ecuador",
+    "M49 code": "218",
+    "ISO alpha3 code": "ECU",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "EG",
+    "name": "Egypt",
+    "M49 code": "818",
+    "ISO alpha3 code": "EGY",
+    "continent": "Africa",
+    "region": "Northern Africa",
+    "color": "#2EB82E"
+  },
+  {
+    "id": "SV",
+    "name": "El Salvador",
+    "M49 code": "222",
+    "ISO alpha3 code": "SLV",
+    "continent": "North America",
+    "region": "Central America, Latin America and the Caribbean",
+    "color": "#CC3300"
+  },
+  {
+    "id": "GQ",
+    "name": "Equatorial Guinea",
+    "M49 code": "226",
+    "ISO alpha3 code": "GNQ",
+    "continent": "Africa",
+    "region": "Middle Africa, Sub-Saharan Africa",
+    "color": "#CCCC00"
+  },
+  {
+    "id": "ER",
+    "name": "Eritrea",
+    "M49 code": "232",
+    "ISO alpha3 code": "ERI",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "EE",
+    "name": "Estonia",
+    "M49 code": "233",
+    "ISO alpha3 code": "EST",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "SZ",
+    "name": "Eswatini",
+    "M49 code": "748",
+    "ISO alpha3 code": "SWZ",
+    "continent": "Africa",
+    "region": "Southern Africa, Sub-Saharan Africa",
+    "color": "#B8E62E"
+  },
+  {
+    "id": "ET",
+    "name": "Ethiopia",
+    "M49 code": "231",
+    "ISO alpha3 code": "ETH",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "M49 code": "238",
+    "ISO alpha3 code": "FLK",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "FO",
+    "name": "Faroe Islands",
+    "M49 code": "234",
+    "ISO alpha3 code": "FRO",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "FJ",
+    "name": "Fiji",
+    "M49 code": "242",
+    "ISO alpha3 code": "FJI",
+    "continent": "Oceania",
+    "region": "Melanesia",
+    "color": "#666600"
+  },
+  {
+    "id": "FI",
+    "name": "Finland",
+    "M49 code": "246",
+    "ISO alpha3 code": "FIN",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "FR",
+    "name": "France",
+    "M49 code": "250",
+    "ISO alpha3 code": "FRA",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "color": "#E6B88A"
+  },
+  {
+    "id": "GF",
+    "name": "French Guiana",
+    "M49 code": "254",
+    "ISO alpha3 code": "GUF",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "PF",
+    "name": "French Polynesia",
+    "M49 code": "258",
+    "ISO alpha3 code": "PYF",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "TF",
+    "name": "French Southern Territories",
+    "M49 code": "260",
+    "ISO alpha3 code": "ATF",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "GA",
+    "name": "Gabon",
+    "M49 code": "266",
+    "ISO alpha3 code": "GAB",
+    "continent": "Africa",
+    "region": "Middle Africa, Sub-Saharan Africa",
+    "color": "#CCCC00"
+  },
+  {
+    "id": "GM",
+    "name": "Gambia",
+    "M49 code": "270",
+    "ISO alpha3 code": "GMB",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "GE",
+    "name": "Georgia",
+    "M49 code": "268",
+    "ISO alpha3 code": "GEO",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "DE",
+    "name": "Germany",
+    "M49 code": "276",
+    "ISO alpha3 code": "DEU",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "color": "#E6B88A"
+  },
+  {
+    "id": "GH",
+    "name": "Ghana",
+    "M49 code": "288",
+    "ISO alpha3 code": "GHA",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "GI",
+    "name": "Gibraltar",
+    "M49 code": "292",
+    "ISO alpha3 code": "GIB",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "GR",
+    "name": "Greece",
+    "M49 code": "300",
+    "ISO alpha3 code": "GRC",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "GL",
+    "name": "Greenland",
+    "M49 code": "304",
+    "ISO alpha3 code": "GRL",
+    "continent": "North America",
+    "region": "Northern America",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "GD",
+    "name": "Grenada",
+    "M49 code": "308",
+    "ISO alpha3 code": "GRD",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "GP",
+    "name": "Guadeloupe",
+    "M49 code": "312",
+    "ISO alpha3 code": "GLP",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "GU",
+    "name": "Guam",
+    "M49 code": "316",
+    "ISO alpha3 code": "GUM",
+    "continent": "Oceania",
+    "region": "Micronesia",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "GT",
+    "name": "Guatemala",
+    "M49 code": "320",
+    "ISO alpha3 code": "GTM",
+    "continent": "North America",
+    "region": "Central America, Latin America and the Caribbean",
+    "color": "#CC3300"
+  },
+  {
+    "id": "GG",
+    "name": "Guernsey",
+    "M49 code": "831",
+    "ISO alpha3 code": "GGY",
+    "continent": "Europe",
+    "region": "Northern Europe, Channel Islands",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "GN",
+    "name": "Guinea",
+    "M49 code": "324",
+    "ISO alpha3 code": "GIN",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "GW",
+    "name": "Guinea-Bissau",
+    "M49 code": "624",
+    "ISO alpha3 code": "GNB",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "GY",
+    "name": "Guyana",
+    "M49 code": "328",
+    "ISO alpha3 code": "GUY",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "HT",
+    "name": "Haiti",
+    "M49 code": "332",
+    "ISO alpha3 code": "HTI",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "HM",
+    "name": "Heard Island and McDonald Islands",
+    "M49 code": "334",
+    "ISO alpha3 code": "HMD",
+    "continent": "Oceania",
+    "region": "Australia and New Zealand",
+    "color": "#E6E600"
+  },
+  {
+    "id": "VA",
+    "name": "Holy See",
+    "M49 code": "336",
+    "ISO alpha3 code": "VAT",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "HN",
+    "name": "Honduras",
+    "M49 code": "340",
+    "ISO alpha3 code": "HND",
+    "continent": "North America",
+    "region": "Central America, Latin America and the Caribbean",
+    "color": "#CC3300"
+  },
+  {
+    "id": "HU",
+    "name": "Hungary",
+    "M49 code": "348",
+    "ISO alpha3 code": "HUN",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "IS",
+    "name": "Iceland",
+    "M49 code": "352",
+    "ISO alpha3 code": "ISL",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "IN",
+    "name": "India",
+    "M49 code": "356",
+    "ISO alpha3 code": "IND",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "color": "#00CC99"
+  },
+  {
+    "id": "ID",
+    "name": "Indonesia",
+    "M49 code": "360",
+    "ISO alpha3 code": "IDN",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "IR",
+    "name": "Iran (Islamic Republic of)",
+    "M49 code": "364",
+    "ISO alpha3 code": "IRN",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "color": "#00CC99"
+  },
+  {
+    "id": "IQ",
+    "name": "Iraq",
+    "M49 code": "368",
+    "ISO alpha3 code": "IRQ",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "IE",
+    "name": "Ireland",
+    "M49 code": "372",
+    "ISO alpha3 code": "IRL",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "IM",
+    "name": "Isle of Man",
+    "M49 code": "833",
+    "ISO alpha3 code": "IMN",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "IL",
+    "name": "Israel",
+    "M49 code": "376",
+    "ISO alpha3 code": "ISR",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "IT",
+    "name": "Italy",
+    "M49 code": "380",
+    "ISO alpha3 code": "ITA",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "JM",
+    "name": "Jamaica",
+    "M49 code": "388",
+    "ISO alpha3 code": "JAM",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "JP",
+    "name": "Japan",
+    "M49 code": "392",
+    "ISO alpha3 code": "JPN",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "color": "#CC0052"
+  },
+  {
+    "id": "JE",
+    "name": "Jersey",
+    "M49 code": "832",
+    "ISO alpha3 code": "JEY",
+    "continent": "Europe",
+    "region": "Northern Europe, Channel Islands",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "JO",
+    "name": "Jordan",
+    "M49 code": "400",
+    "ISO alpha3 code": "JOR",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "KZ",
+    "name": "Kazakhstan",
+    "M49 code": "398",
+    "ISO alpha3 code": "KAZ",
+    "continent": "Asia",
+    "region": "Central Asia",
+    "color": "#FF3333"
+  },
+  {
+    "id": "KE",
+    "name": "Kenya",
+    "M49 code": "404",
+    "ISO alpha3 code": "KEN",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "KI",
+    "name": "Kiribati",
+    "M49 code": "296",
+    "ISO alpha3 code": "KIR",
+    "continent": "Oceania",
+    "region": "Micronesia",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "KW",
+    "name": "Kuwait",
+    "M49 code": "414",
+    "ISO alpha3 code": "KWT",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "KG",
+    "name": "Kyrgyzstan",
+    "M49 code": "417",
+    "ISO alpha3 code": "KGZ",
+    "continent": "Asia",
+    "region": "Central Asia",
+    "color": "#FF3333"
+  },
+  {
+    "id": "LA",
+    "name": "Lao People's Democratic Republic",
+    "M49 code": "418",
+    "ISO alpha3 code": "LAO",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "LV",
+    "name": "Latvia",
+    "M49 code": "428",
+    "ISO alpha3 code": "LVA",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "LB",
+    "name": "Lebanon",
+    "M49 code": "422",
+    "ISO alpha3 code": "LBN",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "LS",
+    "name": "Lesotho",
+    "M49 code": "426",
+    "ISO alpha3 code": "LSO",
+    "continent": "Africa",
+    "region": "Southern Africa, Sub-Saharan Africa",
+    "color": "#B8E62E"
+  },
+  {
+    "id": "LR",
+    "name": "Liberia",
+    "M49 code": "430",
+    "ISO alpha3 code": "LBR",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "LY",
+    "name": "Libya",
+    "M49 code": "434",
+    "ISO alpha3 code": "LBY",
+    "continent": "Africa",
+    "region": "Northern Africa",
+    "color": "#2EB82E"
+  },
+  {
+    "id": "LI",
+    "name": "Liechtenstein",
+    "M49 code": "438",
+    "ISO alpha3 code": "LIE",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "color": "#E6B88A"
+  },
+  {
+    "id": "LT",
+    "name": "Lithuania",
+    "M49 code": "440",
+    "ISO alpha3 code": "LTU",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "LU",
+    "name": "Luxembourg",
+    "M49 code": "442",
+    "ISO alpha3 code": "LUX",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "color": "#E6B88A"
+  },
+  {
+    "id": "MG",
+    "name": "Madagascar",
+    "M49 code": "450",
+    "ISO alpha3 code": "MDG",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "MW",
+    "name": "Malawi",
+    "M49 code": "454",
+    "ISO alpha3 code": "MWI",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "MY",
+    "name": "Malaysia",
+    "M49 code": "458",
+    "ISO alpha3 code": "MYS",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "MV",
+    "name": "Maldives",
+    "M49 code": "462",
+    "ISO alpha3 code": "MDV",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "color": "#00CC99"
+  },
+  {
+    "id": "ML",
+    "name": "Mali",
+    "M49 code": "466",
+    "ISO alpha3 code": "MLI",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "MT",
+    "name": "Malta",
+    "M49 code": "470",
+    "ISO alpha3 code": "MLT",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "MH",
+    "name": "Marshall Islands",
+    "M49 code": "584",
+    "ISO alpha3 code": "MHL",
+    "continent": "Oceania",
+    "region": "Micronesia",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "MQ",
+    "name": "Martinique",
+    "M49 code": "474",
+    "ISO alpha3 code": "MTQ",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "MR",
+    "name": "Mauritania",
+    "M49 code": "478",
+    "ISO alpha3 code": "MRT",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "MU",
+    "name": "Mauritius",
+    "M49 code": "480",
+    "ISO alpha3 code": "MUS",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "YT",
+    "name": "Mayotte",
+    "M49 code": "175",
+    "ISO alpha3 code": "MYT",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "MX",
+    "name": "Mexico",
+    "M49 code": "484",
+    "ISO alpha3 code": "MEX",
+    "continent": "North America",
+    "region": "Central America, Latin America and the Caribbean",
+    "color": "#CC3300"
+  },
+  {
+    "id": "FM",
+    "name": "Micronesia (Federated States of)",
+    "M49 code": "583",
+    "ISO alpha3 code": "FSM",
+    "continent": "Oceania",
+    "region": "Micronesia",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "MC",
+    "name": "Monaco",
+    "M49 code": "492",
+    "ISO alpha3 code": "MCO",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "color": "#E6B88A"
+  },
+  {
+    "id": "MN",
+    "name": "Mongolia",
+    "M49 code": "496",
+    "ISO alpha3 code": "MNG",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "color": "#CC0052"
+  },
+  {
+    "id": "ME",
+    "name": "Montenegro",
+    "M49 code": "499",
+    "ISO alpha3 code": "MNE",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "MS",
+    "name": "Montserrat",
+    "M49 code": "500",
+    "ISO alpha3 code": "MSR",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "MA",
+    "name": "Morocco",
+    "M49 code": "504",
+    "ISO alpha3 code": "MAR",
+    "continent": "Africa",
+    "region": "Northern Africa",
+    "color": "#2EB82E"
+  },
+  {
+    "id": "MZ",
+    "name": "Mozambique",
+    "M49 code": "508",
+    "ISO alpha3 code": "MOZ",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "MM",
+    "name": "Myanmar",
+    "M49 code": "104",
+    "ISO alpha3 code": "MMR",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "NA",
+    "name": "Namibia",
+    "M49 code": "516",
+    "ISO alpha3 code": "NAM",
+    "continent": "Africa",
+    "region": "Southern Africa, Sub-Saharan Africa",
+    "color": "#B8E62E"
+  },
+  {
+    "id": "NR",
+    "name": "Nauru",
+    "M49 code": "520",
+    "ISO alpha3 code": "NRU",
+    "continent": "Oceania",
+    "region": "Micronesia",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "NP",
+    "name": "Nepal",
+    "M49 code": "524",
+    "ISO alpha3 code": "NPL",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "color": "#00CC99"
+  },
+  {
+    "id": "NL",
+    "name": "Netherlands",
+    "M49 code": "528",
+    "ISO alpha3 code": "NLD",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "color": "#E6B88A"
+  },
+  {
+    "id": "NC",
+    "name": "New Caledonia",
+    "M49 code": "540",
+    "ISO alpha3 code": "NCL",
+    "continent": "Oceania",
+    "region": "Melanesia",
+    "color": "#666600"
+  },
+  {
+    "id": "NZ",
+    "name": "New Zealand",
+    "M49 code": "554",
+    "ISO alpha3 code": "NZL",
+    "continent": "Oceania",
+    "region": "Australia and New Zealand",
+    "color": "#E6E600"
+  },
+  {
+    "id": "NI",
+    "name": "Nicaragua",
+    "M49 code": "558",
+    "ISO alpha3 code": "NIC",
+    "continent": "North America",
+    "region": "Central America, Latin America and the Caribbean",
+    "color": "#CC3300"
+  },
+  {
+    "id": "NE",
+    "name": "Niger",
+    "M49 code": "562",
+    "ISO alpha3 code": "NER",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "NG",
+    "name": "Nigeria",
+    "M49 code": "566",
+    "ISO alpha3 code": "NGA",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "NU",
+    "name": "Niue",
+    "M49 code": "570",
+    "ISO alpha3 code": "NIU",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "NF",
+    "name": "Norfolk Island",
+    "M49 code": "574",
+    "ISO alpha3 code": "NFK",
+    "continent": "Oceania",
+    "region": "Australia and New Zealand",
+    "color": "#E6E600"
+  },
+  {
+    "id": "MK",
+    "name": "North Macedonia",
+    "M49 code": "807",
+    "ISO alpha3 code": "MKD",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "MP",
+    "name": "Northern Mariana Islands",
+    "M49 code": "580",
+    "ISO alpha3 code": "MNP",
+    "continent": "Oceania",
+    "region": "Micronesia",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "NO",
+    "name": "Norway",
+    "M49 code": "578",
+    "ISO alpha3 code": "NOR",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "OM",
+    "name": "Oman",
+    "M49 code": "512",
+    "ISO alpha3 code": "OMN",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "PK",
+    "name": "Pakistan",
+    "M49 code": "586",
+    "ISO alpha3 code": "PAK",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "color": "#00CC99"
+  },
+  {
+    "id": "PW",
+    "name": "Palau",
+    "M49 code": "585",
+    "ISO alpha3 code": "PLW",
+    "continent": "Oceania",
+    "region": "Micronesia",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "PA",
+    "name": "Panama",
+    "M49 code": "591",
+    "ISO alpha3 code": "PAN",
+    "continent": "North America",
+    "region": "Central America, Latin America and the Caribbean",
+    "color": "#CC3300"
+  },
+  {
+    "id": "PG",
+    "name": "Papua New Guinea",
+    "M49 code": "598",
+    "ISO alpha3 code": "PNG",
+    "continent": "Oceania",
+    "region": "Melanesia",
+    "color": "#666600"
+  },
+  {
+    "id": "PY",
+    "name": "Paraguay",
+    "M49 code": "600",
+    "ISO alpha3 code": "PRY",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "PE",
+    "name": "Peru",
+    "M49 code": "604",
+    "ISO alpha3 code": "PER",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "PH",
+    "name": "Philippines",
+    "M49 code": "608",
+    "ISO alpha3 code": "PHL",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "PN",
+    "name": "Pitcairn",
+    "M49 code": "612",
+    "ISO alpha3 code": "PCN",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "PL",
+    "name": "Poland",
+    "M49 code": "616",
+    "ISO alpha3 code": "POL",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "PT",
+    "name": "Portugal",
+    "M49 code": "620",
+    "ISO alpha3 code": "PRT",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "PR",
+    "name": "Puerto Rico",
+    "M49 code": "630",
+    "ISO alpha3 code": "PRI",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "QA",
+    "name": "Qatar",
+    "M49 code": "634",
+    "ISO alpha3 code": "QAT",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "KR",
+    "name": "Republic of Korea",
+    "M49 code": "410",
+    "ISO alpha3 code": "KOR",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "color": "#CC0052"
+  },
+  {
+    "id": "MD",
+    "name": "Republic of Moldova",
+    "M49 code": "498",
+    "ISO alpha3 code": "MDA",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "RE",
+    "name": "Réunion",
+    "M49 code": "638",
+    "ISO alpha3 code": "REU",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "RO",
+    "name": "Romania",
+    "M49 code": "642",
+    "ISO alpha3 code": "ROU",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "RU",
+    "name": "Russian Federation",
+    "M49 code": "643",
+    "ISO alpha3 code": "RUS",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "RW",
+    "name": "Rwanda",
+    "M49 code": "646",
+    "ISO alpha3 code": "RWA",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "BL",
+    "name": "Saint Barthélemy",
+    "M49 code": "652",
+    "ISO alpha3 code": "BLM",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "SH",
+    "name": "Saint Helena",
+    "M49 code": "654",
+    "ISO alpha3 code": "SHN",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "KN",
+    "name": "Saint Kitts and Nevis",
+    "M49 code": "659",
+    "ISO alpha3 code": "KNA",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "LC",
+    "name": "Saint Lucia",
+    "M49 code": "662",
+    "ISO alpha3 code": "LCA",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "MF",
+    "name": "Saint Martin (French Part)",
+    "M49 code": "663",
+    "ISO alpha3 code": "MAF",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "M49 code": "666",
+    "ISO alpha3 code": "SPM",
+    "continent": "North America",
+    "region": "Northern America",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "M49 code": "670",
+    "ISO alpha3 code": "VCT",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "WS",
+    "name": "Samoa",
+    "M49 code": "882",
+    "ISO alpha3 code": "WSM",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "SM",
+    "name": "San Marino",
+    "M49 code": "674",
+    "ISO alpha3 code": "SMR",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "ST",
+    "name": "Sao Tome and Principe",
+    "M49 code": "678",
+    "ISO alpha3 code": "STP",
+    "continent": "Africa",
+    "region": "Middle Africa, Sub-Saharan Africa",
+    "color": "#CCCC00"
+  },
+  {
+    "id": "SA",
+    "name": "Saudi Arabia",
+    "M49 code": "682",
+    "ISO alpha3 code": "SAU",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "SN",
+    "name": "Senegal",
+    "M49 code": "686",
+    "ISO alpha3 code": "SEN",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "RS",
+    "name": "Serbia",
+    "M49 code": "688",
+    "ISO alpha3 code": "SRB",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "SC",
+    "name": "Seychelles",
+    "M49 code": "690",
+    "ISO alpha3 code": "SYC",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "SL",
+    "name": "Sierra Leone",
+    "M49 code": "694",
+    "ISO alpha3 code": "SLE",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "SG",
+    "name": "Singapore",
+    "M49 code": "702",
+    "ISO alpha3 code": "SGP",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "SX",
+    "name": "Sint Maarten (Dutch part)",
+    "M49 code": "534",
+    "ISO alpha3 code": "SXM",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "SK",
+    "name": "Slovakia",
+    "M49 code": "703",
+    "ISO alpha3 code": "SVK",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "SI",
+    "name": "Slovenia",
+    "M49 code": "705",
+    "ISO alpha3 code": "SVN",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "SB",
+    "name": "Solomon Islands",
+    "M49 code": "090",
+    "ISO alpha3 code": "SLB",
+    "continent": "Oceania",
+    "region": "Melanesia",
+    "color": "#666600"
+  },
+  {
+    "id": "SO",
+    "name": "Somalia",
+    "M49 code": "706",
+    "ISO alpha3 code": "SOM",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "ZA",
+    "name": "South Africa",
+    "M49 code": "710",
+    "ISO alpha3 code": "ZAF",
+    "continent": "Africa",
+    "region": "Southern Africa, Sub-Saharan Africa",
+    "color": "#B8E62E"
+  },
+  {
+    "id": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "M49 code": "239",
+    "ISO alpha3 code": "SGS",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "SS",
+    "name": "South Sudan",
+    "M49 code": "728",
+    "ISO alpha3 code": "SSD",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "ES",
+    "name": "Spain",
+    "M49 code": "724",
+    "ISO alpha3 code": "ESP",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "color": "#8AB8E6"
+  },
+  {
+    "id": "LK",
+    "name": "Sri Lanka",
+    "M49 code": "144",
+    "ISO alpha3 code": "LKA",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "color": "#00CC99"
+  },
+  {
+    "id": "PS",
+    "name": "State of Palestine",
+    "M49 code": "275",
+    "ISO alpha3 code": "PSE",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "SD",
+    "name": "Sudan",
+    "M49 code": "729",
+    "ISO alpha3 code": "SDN",
+    "continent": "Africa",
+    "region": "Northern Africa",
+    "color": "#2EB82E"
+  },
+  {
+    "id": "SR",
+    "name": "Suriname",
+    "M49 code": "740",
+    "ISO alpha3 code": "SUR",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "SJ",
+    "name": "Svalbard and Jan Mayen Islands",
+    "M49 code": "744",
+    "ISO alpha3 code": "SJM",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "SE",
+    "name": "Sweden",
+    "M49 code": "752",
+    "ISO alpha3 code": "SWE",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "CH",
+    "name": "Switzerland",
+    "M49 code": "756",
+    "ISO alpha3 code": "CHE",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "color": "#E6B88A"
+  },
+  {
+    "id": "SY",
+    "name": "Syrian Arab Republic",
+    "M49 code": "760",
+    "ISO alpha3 code": "SYR",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "TJ",
+    "name": "Tajikistan",
+    "M49 code": "762",
+    "ISO alpha3 code": "TJK",
+    "continent": "Asia",
+    "region": "Central Asia",
+    "color": "#FF3333"
+  },
+  {
+    "id": "TH",
+    "name": "Thailand",
+    "M49 code": "764",
+    "ISO alpha3 code": "THA",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "TL",
+    "name": "Timor-Leste",
+    "M49 code": "626",
+    "ISO alpha3 code": "TLS",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "TG",
+    "name": "Togo",
+    "M49 code": "768",
+    "ISO alpha3 code": "TGO",
+    "continent": "Africa",
+    "region": "Western Africa, Sub-Saharan Africa",
+    "color": "#80E6CC"
+  },
+  {
+    "id": "TK",
+    "name": "Tokelau",
+    "M49 code": "772",
+    "ISO alpha3 code": "TKL",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "TO",
+    "name": "Tonga",
+    "M49 code": "776",
+    "ISO alpha3 code": "TON",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "TT",
+    "name": "Trinidad and Tobago",
+    "M49 code": "780",
+    "ISO alpha3 code": "TTO",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "TN",
+    "name": "Tunisia",
+    "M49 code": "788",
+    "ISO alpha3 code": "TUN",
+    "continent": "Africa",
+    "region": "Northern Africa",
+    "color": "#2EB82E"
+  },
+  {
+    "id": "TR",
+    "name": "Turkey",
+    "M49 code": "792",
+    "ISO alpha3 code": "TUR",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "TM",
+    "name": "Turkmenistan",
+    "M49 code": "795",
+    "ISO alpha3 code": "TKM",
+    "continent": "Asia",
+    "region": "Central Asia",
+    "color": "#FF3333"
+  },
+  {
+    "id": "TC",
+    "name": "Turks and Caicos Islands",
+    "M49 code": "796",
+    "ISO alpha3 code": "TCA",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "TV",
+    "name": "Tuvalu",
+    "M49 code": "798",
+    "ISO alpha3 code": "TUV",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "UG",
+    "name": "Uganda",
+    "M49 code": "800",
+    "ISO alpha3 code": "UGA",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "UA",
+    "name": "Ukraine",
+    "M49 code": "804",
+    "ISO alpha3 code": "UKR",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "color": "#D685FF"
+  },
+  {
+    "id": "AE",
+    "name": "United Arab Emirates",
+    "M49 code": "784",
+    "ISO alpha3 code": "ARE",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "GB",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "M49 code": "826",
+    "ISO alpha3 code": "GBR",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "color": "#99CCFF"
+  },
+  {
+    "id": "TZ",
+    "name": "United Republic of Tanzania",
+    "M49 code": "834",
+    "ISO alpha3 code": "TZA",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "US",
+    "name": "United States of America",
+    "M49 code": "840",
+    "ISO alpha3 code": "USA",
+    "continent": "North America",
+    "region": "Northern America",
+    "color": "#EBAD99"
+  },
+  {
+    "id": "VI",
+    "name": "United States Virgin Islands",
+    "M49 code": "850",
+    "ISO alpha3 code": "VIR",
+    "continent": "North America",
+    "region": "Caribbean, Latin America and the Caribbean",
+    "color": "#004C1A"
+  },
+  {
+    "id": "UY",
+    "name": "Uruguay",
+    "M49 code": "858",
+    "ISO alpha3 code": "URY",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "UZ",
+    "name": "Uzbekistan",
+    "M49 code": "860",
+    "ISO alpha3 code": "UZB",
+    "continent": "Asia",
+    "region": "Central Asia",
+    "color": "#FF3333"
+  },
+  {
+    "id": "VU",
+    "name": "Vanuatu",
+    "M49 code": "548",
+    "ISO alpha3 code": "VUT",
+    "continent": "Oceania",
+    "region": "Melanesia",
+    "color": "#666600"
+  },
+  {
+    "id": "VE",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "M49 code": "862",
+    "ISO alpha3 code": "VEN",
+    "continent": "South America",
+    "region": "South America, Latin America and the Caribbean",
+    "color": "#9900CC"
+  },
+  {
+    "id": "VN",
+    "name": "Viet Nam",
+    "M49 code": "704",
+    "ISO alpha3 code": "VNM",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D4D"
+  },
+  {
+    "id": "WF",
+    "name": "Wallis and Futuna Islands",
+    "M49 code": "876",
+    "ISO alpha3 code": "WLF",
+    "continent": "Oceania",
+    "region": "Polynesia",
+    "color": "#B88A00"
+  },
+  {
+    "id": "EH",
+    "name": "Western Sahara",
+    "M49 code": "732",
+    "ISO alpha3 code": "ESH",
+    "continent": "Africa",
+    "region": "Northern Africa",
+    "color": "#2EB82E"
+  },
+  {
+    "id": "YE",
+    "name": "Yemen",
+    "M49 code": "887",
+    "ISO alpha3 code": "YEM",
+    "continent": "Asia",
+    "region": "Western Asia",
+    "color": "#FF7519"
+  },
+  {
+    "id": "ZM",
+    "name": "Zambia",
+    "M49 code": "894",
+    "ISO alpha3 code": "ZMB",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "ZW",
+    "name": "Zimbabwe",
+    "M49 code": "716",
+    "ISO alpha3 code": "ZWE",
+    "continent": "Africa",
+    "region": "Eastern Africa, Sub-Saharan Africa",
+    "color": "#FF4D94"
+  },
+  {
+    "id": "TW",
+    "name": "Taiwan, Province of China",
+    "M49 code": "716",
+    "ISO alpha3 code": "TWN",
+    "continent": "Asia",
+    "region": "South-eastern Asia",
+    "color": "#FF4D94"
+  }
+]
