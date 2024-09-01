@@ -1,4 +1,4 @@
-# UWA Data Warehouse 2024 Demo Project
+# Data Warehouse and ETL Process for Olympic and Economic Data Analysis
 
 ## Overview
 
