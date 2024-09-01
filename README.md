@@ -1,129 +1,134 @@
 # UWA Data Warehouse 2024 Demo Project
 
-A Data Warehouse project consists of several parts:
+## Overview
 
-- Data collection and settle down, which refers to OLTP (Online Transaction Processing)
-- Data transformation and integration, which refers to ETL (Extract, Transform, Load)
-- Data Warehouse design and implementation, which refers to OLAP (Online Analytical Processing)
-    - The design of the data warehouse normally happens before the ETL process
-- Data analysis and visualization, which refers to BI (Business Intelligence)
-    - This is the end goal of the data warehouse project, which is to provide insights to the business, answer business
-      questions, and help the business make decisions
+This project is designed to demonstrate the complete process of building a Data Warehouse, which involves several key stages:
 
-Let's give the AdventureWorks database as an example to illustrate the above concepts.
+1. **Data Collection and Settlement (OLTP - Online Transaction Processing):** This involves gathering and storing raw data, typically in an operational database.
+2. **Data Transformation and Integration (ETL - Extract, Transform, Load):** The raw data is transformed and integrated into a unified format, making it suitable for analysis.
+3. **Data Warehouse Design and Implementation (OLAP - Online Analytical Processing):** The data warehouse is designed, usually before the ETL process, to support complex queries and reporting.
+4. **Data Analysis and Visualisation (BI - Business Intelligence):** The final stage aims to provide actionable insights, answer business questions, and support decision-making processes.
 
-`Adventure Works Cycles` is a fictitious, multinational manufacturing company that sells bicycles and accessories.
+To illustrate these concepts, we use the fictitious `Adventure Works Cycles` database, representing a multinational manufacturing company that sells bicycles and accessories.
 
 ## Environment Setup
 
-### Step 0: Cloning a repository
+### Step 1: Cloning the Repository
 
-```
+To begin, clone the project repository:
+
+```bash
 git clone https://github.com/PascalSun/DW_2024.git
 ```
 
-If you are not familiar with git, please learn the basic concepts about git and GitHub.
+Familiarity with Git and GitHub is essential for software engineers. If you’re new to Git, here are some resources to get started:
+- [W3Schools Git Tutorial](https://www.w3schools.com/git/)
+- [Official Git Documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-It is a must-have skill for a software engineer.
+Additionally, if you do not have a code editor, we recommend installing [VS Code](https://code.visualstudio.com/download).
 
-Here is a good tutorial for beginners: https://www.w3schools.com/git/
+### Step 2: Database Environment Setup
 
-And here is official documentation: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+Ensure that Docker and Docker Compose are installed on your machine. These tools are necessary to set up the required databases and Jupyter Lab environment.
 
-Also, if you do not have a code editor, please install the VSCODE: https://code.visualstudio.com/download
-
-### For the database part
-
-Make sure you have docker and docker-compose installed on your machine.
-
-Then run `docker compose up -d` to start the databases and jupyter lab environment.
-
-Try to understand how many services inside the docker compose file, and what they are used for.
-
-Which part of the data warehouse project do they belong to?
-
-If you are not familiar with docker, please learn the basic concepts about docker.
-
-We just put down a tutorial for you to get started with docker: https://uwa-nlp-tlp.gitbook.io/it-support/docker-101
-
-#### Debug hint
-
-To confirm all the four containers are running, you should be able to run
+Start the services with the following command:
 
 ```bash
-docker ps 
+docker compose up -d
 ```
 
-And it will show up four containers: pgdb, pgadmin, sqlserver and jupyterlab.
+This will start the containers necessary for the project. You should have four running containers: `pgdb`, `pgadmin`, `sqlserver`, and `jupyterlab`. You can check this with:
 
-If you do not have this four, check which one is missing, and try to check the logs of that container via command
+```bash
+docker ps
+```
+
+If any container is missing, check the logs for that container using:
 
 ```bash
 docker logs -f <container_name>
 ```
 
-to see what is wrong.
+#### Debug Hint
 
-#### Special part for Windows users
-
-If you run the `docker compose up` command within the powershell or terminal provided by Windows.
-
-Due to the end of file conflict between Unix based and Windows-based systems, sql server may not start properly.
-
-So in this suitutation, you will find you miss the `sqlserver` container when you run `docker ps`.
-
-To resolve this issue, you need to open the whole project with VSCode, and go to the file `OLTP/sqlserver/install.sh`,
-click right
-bottom-corner, and change the line ending from `CRLF` to `LF`, and then save it.
-
-You need to do the same for file `OLTP/sqlserver/startup.sh`.
-
-![change of end_file](imgs/change_end_of_file.gif)
-Then run the
+To confirm that all four containers are running, use:
 
 ```bash
-docker compose up --build -d
+docker ps
 ```
 
-command again to rebuild the image and recreate the containers.
+You should see four containers: `pgdb`, `pgadmin`, `sqlserver`, and `jupyterlab`. If one is missing, check the logs for that container:
 
-#### Special part for Mac M1/M2/M3 users
+```bash
+docker logs -f <container_name>
+```
 
-For users with ARM architecture, you may encounter the issue that the `sqlserver` and `jupyterlab` container cannot
-start properly.
-This is because the `mcr.microsoft.com/mssql/server` image does not support ARM architecture.
-To resolve this issue, you need to change the setting in docker, enable
-the `Use Rosetta for x86_64/amd64 emulation on Apple Silicon` option.
+#### Special Instructions for Windows Users
 
-Open setting => General tab in Docker Desktop, and check the
-option `Use Rosetta for x86_64/amd64 emulation on Apple Silicon`. Click `Apply & Restart` to restart the docker desktop.
+If you run the `docker compose up` command in PowerShell or the terminal provided by Windows, you might encounter issues with the `sqlserver` container due to line ending conflicts between Unix-based and Windows-based systems. To resolve this:
 
-Clean the images, then run the `docker compose up --build -d` command again.
+1. Open the project in VS Code.
+2. Navigate to `OLTP/sqlserver/install.sh` and `OLTP/sqlserver/startup.sh`.
+3. Change the line endings from `CRLF` to `LF` (in the bottom-right corner of VS Code).
+4. Save the files and run:
 
-![mac](imgs/mac.png)
+   ```bash
+   docker compose up --build -d
+   ```
 
-#### Local python dev environment setup
+![Change End of File](imgs/change_end_of_file.gif)
 
-We already provide a container inside the docker-compose file which named `jupyterlab` for you to do the development,
-but if you want to run the code locally, you can follow the steps below.
-We encourage you to explore both options, and understand the pros and cons of each option.
-We will not assess it, but the interviewers may ask you about it.
+#### Special Instructions for Mac M1/M2/M3 Users
 
-1. Need to install graphviz and corresponding python package, this is to draw the ER diagram inside python.
-    - `brew install graphviz`
-    - `pip install graphviz`
+For users with ARM architecture, the `sqlserver` and `jupyterlab` containers may not start properly due to the `mcr.microsoft.com/mssql/server` image not supporting ARM architecture. To resolve this:
 
-2. Create a virtual environment with python>=3.9 via venv or conda
-    - ```bash
-       python3 -m venv venv
-       source venv/bin/activate
-       ```
-    - ```bash
-       conda create -n dw python=3.9
-       conda activate dw
-       ```
+1. Enable `Use Rosetta for x86_64/amd64 emulation on Apple Silicon` in Docker settings:
+   - Open Docker Desktop settings.
+   - Go to the General tab.
+   - Check the `Use Rosetta for x86_64/amd64 emulation on Apple Silicon` option.
+   - Click `Apply & Restart`.
 
-3. Install the requirements
-    - `pip install -r requirements.txt`
-4. Run Jupyter Lab under current project directory
-    - `jupyter lab`
+2. Clean the images and run:
+
+   ```bash
+   docker compose up --build -d
+   ```
+
+![Mac Setup](imgs/mac.png)
+
+### Step 3: Local Python Development Environment Setup
+
+While the project provides a `jupyterlab` container within Docker for development, you may also choose to set up a local Python development environment:
+
+1. Install Graphviz and its Python package for drawing ER diagrams:
+   - On macOS: `brew install graphviz`
+   - Install the Python package: `pip install graphviz`
+
+2. Create a virtual environment with Python 3.9 or higher:
+   - Using `venv`:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
+   - Using `conda`:
+     ```bash
+     conda create -n dw python=3.9
+     conda activate dw
+     ```
+
+3. Install the project dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run Jupyter Lab in the project directory:
+
+   ```bash
+   jupyter lab
+   ```
+
+### Step 4: Explore and Understand
+
+This project encourages you to explore both the Docker and local development environments, understand their setups, and be prepared to discuss the advantages and disadvantages of each approach. This exploration is valuable for understanding the full lifecycle of a data warehouse project, from data collection to analysis and visualisation.
+
